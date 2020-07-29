@@ -1,0 +1,14 @@
+{
+  "at_hash": "nBXrYDgTpziDhjD7BJt8Zw",
+  "sub": "68f7aec3-5ee1-46f3-85ae-e6466d6a5dd2",
+  "aud": "2chh7tl9dlcrb6e8s91qc459nf",
+  "email_verified": true,
+  "event_id": "6b8196a7-7e4e-440e-a394-1e4c469f8a39",
+  "token_use": "id",
+  "auth_time": 1593695446,
+  "iss": "https://cognito-idp.us-east-2.amazonaws.com/us-east-2_8gthsqmEw",
+  "cognito:username": "68f7aec3-5ee1-46f3-85ae-e6466d6a5dd2",
+  "exp": 1593699046,
+  "iat": 1593695446,
+  "email": "brian@brianmorrison.me"
+}
