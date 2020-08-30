@@ -116,7 +116,7 @@ export default {
       }
 
       let token = jwt.sign(claims, "not_a_secret", { algorithm: 'HS256' });
-      let url = `${redirectUri}#id_token=${token}`
+      let url = `${redirectUri}#id_token=${token}&access_token=${token}`
 
       if(shouldOpenInNewWindow) {
         window.open(url)
